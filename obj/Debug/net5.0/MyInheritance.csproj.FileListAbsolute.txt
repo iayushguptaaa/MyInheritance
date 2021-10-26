@@ -1,0 +1,16 @@
+T:\MyInheritance\bin\Debug\net5.0\MyInheritance.exe
+T:\MyInheritance\bin\Debug\net5.0\MyInheritance.deps.json
+T:\MyInheritance\bin\Debug\net5.0\MyInheritance.runtimeconfig.json
+T:\MyInheritance\bin\Debug\net5.0\MyInheritance.runtimeconfig.dev.json
+T:\MyInheritance\bin\Debug\net5.0\MyInheritance.dll
+T:\MyInheritance\bin\Debug\net5.0\ref\MyInheritance.dll
+T:\MyInheritance\bin\Debug\net5.0\MyInheritance.pdb
+T:\MyInheritance\obj\Debug\net5.0\MyInheritance.csproj.AssemblyReference.cache
+T:\MyInheritance\obj\Debug\net5.0\MyInheritance.GeneratedMSBuildEditorConfig.editorconfig
+T:\MyInheritance\obj\Debug\net5.0\MyInheritance.AssemblyInfoInputs.cache
+T:\MyInheritance\obj\Debug\net5.0\MyInheritance.AssemblyInfo.cs
+T:\MyInheritance\obj\Debug\net5.0\MyInheritance.csproj.CoreCompileInputs.cache
+T:\MyInheritance\obj\Debug\net5.0\MyInheritance.dll
+T:\MyInheritance\obj\Debug\net5.0\ref\MyInheritance.dll
+T:\MyInheritance\obj\Debug\net5.0\MyInheritance.pdb
+T:\MyInheritance\obj\Debug\net5.0\MyInheritance.genruntimeconfig.cache
