@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "T:\\MyInheritance\\MyInheritance.csproj",
+      "projectUniqueName": "C:\\Users\\i2v\\source\\repos\\MyInheritance\\MyInheritance.csproj",
       "projectName": "MyInheritance",
-      "projectPath": "T:\\MyInheritance\\MyInheritance.csproj",
+      "projectPath": "C:\\Users\\i2v\\source\\repos\\MyInheritance\\MyInheritance.csproj",
       "packagesPath": "C:\\Users\\i2v\\.nuget\\packages\\",
-      "outputPath": "T:\\MyInheritance\\obj\\",
+      "outputPath": "C:\\Users\\i2v\\source\\repos\\MyInheritance\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

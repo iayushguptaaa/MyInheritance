@@ -14,3 +14,11 @@ T:\MyInheritance\obj\Debug\net5.0\MyInheritance.dll
 T:\MyInheritance\obj\Debug\net5.0\ref\MyInheritance.dll
 T:\MyInheritance\obj\Debug\net5.0\MyInheritance.pdb
 T:\MyInheritance\obj\Debug\net5.0\MyInheritance.genruntimeconfig.cache
+C:\Users\i2v\source\repos\MyInheritance\obj\Debug\net5.0\MyInheritance.csproj.AssemblyReference.cache
+C:\Users\i2v\source\repos\MyInheritance\obj\Debug\net5.0\MyInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i2v\source\repos\MyInheritance\obj\Debug\net5.0\MyInheritance.AssemblyInfoInputs.cache
+C:\Users\i2v\source\repos\MyInheritance\obj\Debug\net5.0\MyInheritance.AssemblyInfo.cs
+C:\Users\i2v\source\repos\MyInheritance\obj\Debug\net5.0\MyInheritance.csproj.CoreCompileInputs.cache
+C:\Users\i2v\source\repos\MyInheritance\obj\Debug\net5.0\MyInheritance.dll
+C:\Users\i2v\source\repos\MyInheritance\obj\Debug\net5.0\ref\MyInheritance.dll
+C:\Users\i2v\source\repos\MyInheritance\obj\Debug\net5.0\MyInheritance.pdb
